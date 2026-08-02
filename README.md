@@ -1,3 +1,13 @@
+<h1 align="center">Hi, I'm Samar Hajjaji 👋</h1>
+
+<p align="center">
+  Third-Year Computer Science and Technology Student at NJUPT
+</p>
+
+<p align="center">
+  C++ • Java • Assembly • Learning Python
+</p>
+
 
  👩‍💻 About Me
 
