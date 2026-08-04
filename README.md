@@ -1,23 +1,41 @@
 <h1 align="center">Hi, I'm Samar Hajjaji 👋</h1>
 
-<p align="center">
-  Third-Year Computer Science and Technology Student at NJUPT
-</p>
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="coding-banner.jpg" alt="Coding banner" width="100%">
+    </td>
 
-<p align="center">
-  C++ • Java • Assembly • Learning Python
-</p>
+    <td width="62%" valign="top">
+      <h2>👩‍💻 About Me</h2>
 
+      <p>
+        I am a third-year Computer Science and Technology student at
+        Nanjing University of Posts and Telecommunications (NJUPT).
+      </p>
 
- 👩‍💻 About Me
+      <p>
+        I have been studying in China since 2023. I first studied Chinese
+        at Zhejiang University of Technology before moving to Nanjing to
+        continue my Computer Science and Technology studies.
+      </p>
 
-I am a third-year Computer Science and Technology student at Nanjing University of Posts and Telecommunications, also known as NJUPT.
+      <p>
+        💻 Working with C++ and Java<br>
+        ⚙️ Learning Assembly Language<br>
+        🐍 Currently learning Python<br>
+        🏃 Interested in sports and new experiences<br>
+        🌱 Independent and consistent learner
+      </p>
 
-I have been studying in China since 2023. During my first year, I studied Chinese at Zhejiang University of Technology. I later moved to Nanjing to continue my studies in Computer Science and Technology at NJUPT.
-
-I am a curious and independent person who enjoys discovering new things, gaining new experiences, and improving through practice.
-
-I enjoy sports, technology, and coding. When I identify one of my weaknesses, I try to turn it into a strength through independent learning, discipline, and consistent practice.
+      <p>
+        <a href="https://github.com/SAMARHAJJAJI">GitHub</a>
+        •
+        <a href="https://www.linkedin.com/in/samar-hajjaji-083a2b380/">LinkedIn</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
