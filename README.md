@@ -30,6 +30,12 @@ I enjoy sports, technology, and coding. When I identify one of my weaknesses, I 
 - 🌱 Learning through university courses, personal practice, and projects
 - 🏃 Interested in sports, exploration, and personal development
 
+<a href="https://github.com/SAMARHAJJAJI">GitHub</a> •
+<a href="https://www.linkedin.com/in/samar-hajjaji-083a2b380/">LinkedIn</a>
+
+  </td>
+  </tr>
+</table>
 
 
  🛠️ Programming Skills
