@@ -2,7 +2,7 @@
 
 <br>
 
-<h2>Hi, I'm Samar Hajjaji 👋</h2>
+<h2>Hi, I'm Samar 👋</h2>
 
 <p>
 I am a third-year <strong>Computer Science and Technology student</strong> at
