@@ -1,5 +1,4 @@
-<img src="YOUR-IMAGE-FILENAME.png" width="100%" alt="Samar Hajjaji profile banner">
-
+<img src="./profile-banner.png" width="100%" alt="Samar Hajjaji profile banner">
 <br>
 
 <h2>Hi, I'm Samar 👋</h2>
