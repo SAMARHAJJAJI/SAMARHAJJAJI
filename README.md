@@ -71,13 +71,13 @@ A Java Swing desktop application that displays the current time, day, and date w
 
 ---
 
-### ⚙️ Assembly Language Lab Projects
+### ⚙️ Assembly Language  Projects
 
 A collection of 16-bit x86 Assembly programs covering number representation, string processing, password verification, and packed BCD.
 
 **Key concepts:** x86 Assembly • Registers • Loops • Conditional Jumps • DOS Interrupts • String Processing • Low-Level Programming
 
-🔗 [View Assembly Lab Projects](https://github.com/SAMARHAJJAJI/assembly-language-lab-projects)
+🔗 [View Assembly  Projects](https://github.com/SAMARHAJJAJI/assembly-language-lab-projects)
 
 ---
 
