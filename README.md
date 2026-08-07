@@ -49,13 +49,35 @@ Science and Technology studies.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### C++ Student GradeBook
+### 🧮 C++ Student GradeBook
 
 A C++ console application for loading, managing, deleting, and sorting student grade records.
 
-[View the project](https://github.com/SAMARHAJJAJI/cpp-student-gradebook)
+**Key concepts:** C++ • OOP • File Handling • Vectors • Tuples • Iterators • Lambda Expressions
+
+🔗 [View C++ Student GradeBook](https://github.com/SAMARHAJJAJI/cpp-student-gradebook)
+
+---
+
+### 🕐 Java Digital Clock
+
+A Java Swing desktop application that displays the current time, day, and date with start, stop, and status controls.
+
+**Key concepts:** Java • Swing • GUI Development • Threads • Event Handling • NetBeans GUI Builder
+
+🔗 [View Java Digital Clock](https://github.com/SAMARHAJJAJI/java-digital-clock)
+
+---
+
+### ⚙️ Assembly Language Lab Projects
+
+A collection of 16-bit x86 Assembly programs covering number representation, string processing, password verification, and packed BCD.
+
+**Key concepts:** x86 Assembly • Registers • Loops • Conditional Jumps • DOS Interrupts • String Processing • Low-Level Programming
+
+🔗 [View Assembly Lab Projects](https://github.com/SAMARHAJJAJI/assembly-language-lab-projects)
 
 ---
 
